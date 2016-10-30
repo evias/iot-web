@@ -1,27 +1,20 @@
 {
-    "name": "october/october",
-    "description": "October CMS",
-    "homepage": "http://octobercms.com",
-    "keywords": ["october", "cms", "octobercms", "laravel"],
+    "name": "evias/iot-web",
+    "description": "eVias IoT Dashboard",
+    "homepage": "https://pi.gevs.me",
+    "keywords": ["evias", "dashboard", "octobercms", "laravel", "iotweb", "iot"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexey Bobkov",
-            "email": "aleksey.bobkov@gmail.com",
-            "role": "Co-founder"
-        },
-        {
-            "name": "Samuel Georges",
-            "email": "daftspunky@gmail.com",
-            "role": "Co-founder"
+            "name": "Grégory Saive",
+            "email": "greg@evias.be",
+            "role": "Founder"
         }
     ],
     "support": {
-        "issues": "https://github.com/octobercms/october/issues",
-        "forum": "http://octobercms.com/forum/",
-        "docs": "http://octobercms.com/docs/",
-        "irc": "irc://irc.freenode.net/october",
-        "source": "https://github.com/octobercms/october"
+        "issues": "https://github.com/evias/iot-web/issues",
+        "docs": "https://pi.gevs.me/docs/",
+        "source": "https://github.com/evias/iot-web"
     },
     "require": {
         "php": ">=5.5.9",
